@@ -1,0 +1,19 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "typescript walkthrough using the YT course https://www.youtube.com/watch?v=BwuLxPH8IDs",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "tutorial",
+    "youtube",
+    "walk-through"
+  ],
+  "author": "biplobmanna",
+  "license": "ISC"
+}
